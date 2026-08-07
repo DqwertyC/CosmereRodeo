@@ -9,7 +9,7 @@
   "action": {
     "title": "Dice",
     "icon": "/CosmereRodeo/icon.svg",
-    "popover": "/",
+    "popover": "/CosmereRodeo/popover.html",
     "height": 700,
     "width": 375
   },

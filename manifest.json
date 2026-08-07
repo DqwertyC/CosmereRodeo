@@ -9,7 +9,7 @@
   "action": {
     "title": "Dice",
     "icon": "/CosmereRodeo/icon.svg",
-    "popover": "https://dqwertyc.github.io/CosmereRodeo/popover.html",
+    "popover": "https://dqwertyc.github.io/CosmereRodeo/index.html",
     "height": 700,
     "width": 375
   },

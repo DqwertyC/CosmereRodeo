@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "manifest_version": 1,
   "author": "Owlbear Rodeo + DqwertyC",
-  "homepage_url": "https://dqwertyc.github.io/",
+  "homepage_url": "https://dqwertyc.github.io/CosmereRodeo",
   "icon": "/CosmereRodeo/logo.png",
   "description": "3D dice extension modified for the Cosmere RPG.",
   "action": {
